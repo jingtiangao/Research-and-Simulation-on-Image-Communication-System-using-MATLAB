@@ -1,0 +1,13 @@
+程序说明：
+hundun.m为hundun置乱程序；
+
+Inhundun.m为Inhundun反置乱程序；
+
+DWT.m为基于DWT的水印嵌入与提取主程序。
+
+
+hundun_corlor.m为hundun彩色图像置乱程序；
+
+Inhundun_corlor.m为Inhundun彩色图像反置乱程序；
+
+caiseDWT.m为基于DWT的彩色图像水印嵌入与提取主程序。
